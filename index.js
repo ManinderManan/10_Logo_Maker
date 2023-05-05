@@ -1,4 +1,4 @@
-const inquierer = require('inquirer');
+const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
 const { Triangle, Square, Circle } = require("./lib/shapes.js");
