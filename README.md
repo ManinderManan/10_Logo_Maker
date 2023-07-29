@@ -37,7 +37,7 @@ Usage:
 
 Walk Through Video
 
-[![CLICK HERE](./assets/Screenshot%202023-05-20%20at%205.53.29%20AM.png)](https://drive.google.com/file/d/1zKDm3_RNRF0xhl7HIcSfiNnQ_BCQhymY/view)
+[![CLICK HERE](./assets/CodeScreenshot.png)](https://github.com/ManinderManan/10_Logo_Maker)
 
 Tests
 
