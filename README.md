@@ -37,7 +37,7 @@ Usage:
 
 Walk Through Video
 
-[![CLICK HERE](./assets/CodeScreenshot.png)](https://github.com/ManinderManan/10_Logo_Maker)
+[![CLICK HERE](./assets/CodeScreenshot.png)](https://drive.google.com/file/d/1xySyu4VV6ui60GlHJxu7Dy-e13TVdSqN/view?usp=sharing)
 
 Tests
 
